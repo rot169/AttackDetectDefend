@@ -1,5 +1,6 @@
 # AttackDetectDefend
 
-This repo contains code stoppets related to my Attack Detect Defend video series on YouTube.
+This repo contains code stippets related to the **Attack Detect Defend** YouTube channel.
 
-The full playlist can be found here: https://www.youtube.com/playlist?list=PLoEpvlpUwwkbWXz0UjwDDYb91ZpjN5ScV
+The playlist of attacker TTPs can be found here: https://www.youtube.com/playlist?list=PLoEpvlpUwwkbWXz0UjwDDYb91ZpjN5ScV
+The playlist of defensive TTPs can be found here: https://www.youtube.com/playlist?list=PLoEpvlpUwwkZ23qSDRTYRgcgSDS2XLoj_
